@@ -1,7 +1,7 @@
-opencv-python-headless
+streamlit
+opencv-python
 mediapipe==0.10.9
-numpy==1.22.2
-streamlit==1.29.0
+numpy
 pynput
 
 
