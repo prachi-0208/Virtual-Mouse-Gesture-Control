@@ -1,8 +1,8 @@
 streamlit
-opencv-python
-mediapipe==0.10.9
+opencv-python-headless
+mediapipe==0.10.9  # Use a version known to work with recent Streamlit/Python 3.10
 numpy
-pynput
+streamlit-webrtc
 
 
 
